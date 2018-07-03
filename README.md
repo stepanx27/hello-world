@@ -1,2 +1,5 @@
 # hello-world
-First project
+
+Hello everyone,
+
+James here. Learn coding. 
